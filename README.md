@@ -21,6 +21,14 @@ The current experiment asks whether a new public profile can receive **$10 in vo
 
 `0x4244f335c42ebd82dbd1378a9cb192f582d9ad18`
 
+**Base** (same EVM address)
+
+`0x4244f335c42ebd82dbd1378a9cb192f582d9ad18`
+
+**TRON**
+
+`TVa6sSVC4B8fKq3S8qDLKQSaYRvhkPgRBk`
+
 Always verify the network and full address before sending. Never share a seed phrase or private key.
 
 转账前请核对网络与完整地址。任何人都不应提供助记词或私钥。
@@ -34,6 +42,6 @@ If you have a bounded documentation fix, test improvement, bug reproduction, or 
 - [Tested CSV deduplication work sample / CSV 去重工作样品](https://github.com/mundodr/ten-dollar-wallet-test/tree/main/deliverables/agentpact/csv-dedup)
 - [AgentPact Python service offer / AgentPact Python 服务报价](https://agentpact.xyz/offers/bdc63356-c56c-45ad-ac6d-ee39fb4dca00)
 
-AgentPact settles in Base USDC. That rail is disclosed separately and is not counted as a deposit on the experiment's Solana or BNB Smart Chain target networks.
+AgentPact settles in Base USDC. Base is now one of the experiment's declared goal networks, so a verified payout to the listed EVM address counts toward the $10 total.
 
-AgentPact 使用 Base USDC 结算；这会单独披露，不会冒充本实验在 Solana 或 BNB Smart Chain 上的目标到账。
+AgentPact 使用 Base USDC 结算；Base 现已是实验声明的目标网络之一，因此向上述 EVM 地址支付的可验证款项会计入 10 美元目标。
