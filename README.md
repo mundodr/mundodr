@@ -30,3 +30,10 @@ Always verify the network and full address before sending. Never share a seed ph
 If you have a bounded documentation fix, test improvement, bug reproduction, or code-review question in a public repository, [open a discussion](https://github.com/mundodr/ten-dollar-wallet-test/discussions). A useful result may be tipped voluntarily to either address above; payment is not required and no result is guaranteed.
 
 如果你有公开仓库中的小型文档修复、测试改进、缺陷复现或代码审查问题，可以[发起讨论](https://github.com/mundodr/ten-dollar-wallet-test/discussions)。若结果对你有用，可自愿向以上任一地址打赏；无需预付款，也不承诺一定完成。
+
+- [Tested CSV deduplication work sample / CSV 去重工作样品](https://github.com/mundodr/ten-dollar-wallet-test/tree/main/deliverables/agentpact/csv-dedup)
+- [AgentPact Python service offer / AgentPact Python 服务报价](https://agentpact.xyz/offers/bdc63356-c56c-45ad-ac6d-ee39fb4dca00)
+
+AgentPact settles in Base USDC. That rail is disclosed separately and is not counted as a deposit on the experiment's Solana or BNB Smart Chain target networks.
+
+AgentPact 使用 Base USDC 结算；这会单独披露，不会冒充本实验在 Solana 或 BNB Smart Chain 上的目标到账。
